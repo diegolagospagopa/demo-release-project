@@ -1,4 +1,8 @@
-# 0.1.0 (2022-01-30)
+## [0.1.1](https://github.com/diegolagospagopa/demo-release-project/compare/v0.1.0...v0.1.1) (2022-01-30)
+
+
+
+# [0.1.0](https://github.com/diegolagospagopa/demo-release-project/compare/06746140a8c41273ee68ef88c092444448bc896d...v0.1.0) (2022-01-30)
 
 
 ### Bug Fixes
