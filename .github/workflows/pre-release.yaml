@@ -19,7 +19,7 @@ jobs:
           github-token: ${{ secrets.REPO_TOKEN }}
           version-file: "my-version-file.yaml"
           skip-on-empty: "false"
-          skip-commit: "true"
+          skip-commit: "false"
           # tag_name: ${{ steps.changelog.outputs.tag }}
           # release_name: ${{ steps.changelog.outputs.tag }}
           # body: ${{ steps.changelog.outputs.clean_changelog }}
