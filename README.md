@@ -1,3 +1,3 @@
 # demo-release-project
 
-uno
+uno otto
