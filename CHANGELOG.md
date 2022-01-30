@@ -1,3 +1,7 @@
+## [0.3.1](https://github.com/diegolagospagopa/demo-release-project/compare/v0.3.0...v0.3.1) (2022-01-30)
+
+
+
 # [0.3.0](https://github.com/diegolagospagopa/demo-release-project/compare/v0.2.2...v0.3.0) (2022-01-30)
 
 
