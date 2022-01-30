@@ -4,7 +4,7 @@ name: "pre-release"
 on:
   push:
     branches:
-      - "master"
+      - "main"
 
 jobs:
   pre-release:
@@ -17,7 +17,4 @@ jobs:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
           prerelease: true
-          title: "Development Build"
-          files: |
-            LICENSE.txt
-            *.jar
+          title: "Release Infra"
