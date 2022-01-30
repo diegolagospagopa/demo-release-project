@@ -1,1 +1,1 @@
-# demo-release-project-by-label
+# demo-release-project
