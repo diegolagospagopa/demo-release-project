@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/diegolagospagopa/demo-release-project/compare/v0.1.4...v0.2.0) (2022-01-30)
+
+
+### Features
+
+* 16 ([#16](https://github.com/diegolagospagopa/demo-release-project/issues/16)) ([661baf4](https://github.com/diegolagospagopa/demo-release-project/commit/661baf44cfcfaf3fffccedfe0530eeb6ce2d1c24))
+
+
+
 ## [0.1.3](https://github.com/diegolagospagopa/demo-release-project/compare/v0.1.2...v0.1.3) (2022-01-30)
 
 
@@ -7,16 +16,6 @@
 
 
 ## [0.1.1](https://github.com/diegolagospagopa/demo-release-project/compare/v0.1.0...v0.1.1) (2022-01-30)
-
-
-
-# [0.1.0](https://github.com/diegolagospagopa/demo-release-project/compare/06746140a8c41273ee68ef88c092444448bc896d...v0.1.0) (2022-01-30)
-
-
-### Bug Fixes
-
-* changed to TriPSs/conventional-changelog-action@v3 ([#3](https://github.com/diegolagospagopa/demo-release-project/issues/3)) ([0687c46](https://github.com/diegolagospagopa/demo-release-project/commit/0687c46b11d8a19afa2a273385ed31d69b2e4fb3))
-* uno ([#2](https://github.com/diegolagospagopa/demo-release-project/issues/2)) ([0674614](https://github.com/diegolagospagopa/demo-release-project/commit/06746140a8c41273ee68ef88c092444448bc896d))
 
 
 
